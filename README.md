@@ -1,0 +1,4 @@
+flickrMap
+=========
+
+Uhm.....yeah.
